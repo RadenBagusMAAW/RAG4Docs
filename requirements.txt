@@ -1,0 +1,8 @@
+langchain==0.3.10
+python-dotenv==1.0.1
+streamlit==1.42.0
+tiktoken==0.8.0
+faiss-cpu==1.10.0
+libmagic==1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
