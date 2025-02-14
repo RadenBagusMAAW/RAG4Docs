@@ -42,4 +42,4 @@ python main.py
 streamlit run main.py
 ```
 ## Testing
-
+![Demo GIF](images/demo.gif)
