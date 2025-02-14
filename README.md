@@ -45,3 +45,7 @@ streamlit run main.py
 After running the Streamlit App, you can direclty test it!
 
 ![Demo GIF](images/demo1.gif)
+
+![Demo GIF](images/demo2.gif)
+
+![Demo GIF](images/demo3.gif)
