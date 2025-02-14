@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-st.title('RAGDocs - Retrieval-Augmented Generation for PDFs 📚')
+st.title('RAG4Docs - Retrieval-Augmented Generation for PDFs 📚')
 st.sidebar.title('Add Your Documents (.pdf only)')
 
 pdfs = []
